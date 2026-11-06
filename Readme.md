@@ -1,6 +1,6 @@
  <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B3D,50:4B1FA6,100:00C9FF&height=200&section=header&text=APE%20en%20Java&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Ejercicios%20pr%C3%A1cticos%20de%20programaci%C3%B3n&descAlignY=60&descSize=16" width="100%" alt="Encabezado APE en Java"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B3D,50:4B1FA6,100:00C9FF&height=200&section=header&text=APE%20&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Ejercicios%20pr%C3%A1cticos%20de%20programaci%C3%B3n&descAlignY=60&descSize=16" width="100%" alt="Encabezado APE en Java"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Programaci%C3%B3n+Orientada+a+Objetos;Clases%2C+objetos+y+constructores;Cinco+ejercicios+desarrollados+en+Java" alt="Texto animado"/>
 
