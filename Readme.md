@@ -30,44 +30,6 @@ Mediante ejemplos sencillos, se trabajan clases, atributos, constructores, creac
 
 Aplicar los conceptos fundamentales de la POO mediante la resolución de problemas prácticos, desarrollando habilidades para organizar, implementar y ejecutar programas en Java.
 
-##  Ejercicios
-
-<table>
-  <thead>
-    <tr>
-      <th align="center">N.º</th>
-      <th>Ejercicio</th>
-      <th>Conceptos aplicados</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">01</td>
-      <td> <strong>Notas del curso</strong></td>
-      <td>Clases, objetos, promedios y condicionales.</td>
-    </tr>
-    <tr>
-      <td align="center">02</td>
-      <td> <strong>Inventario de una tienda</strong></td>
-      <td>Atributos, stock, ventas y acumuladores.</td>
-    </tr>
-    <tr>
-      <td align="center">03</td>
-      <td> <strong>Veterinaria</strong></td>
-      <td>Objetos, atributos y referencias en memoria.</td>
-    </tr>
-    <tr>
-      <td align="center">04</td>
-      <td> <strong>Cuenta de ahorro</strong></td>
-      <td>Objetos, saldos y ciclos <code>while</code>.</td>
-    </tr>
-    <tr>
-      <td align="center">05</td>
-      <td> <strong>Biblioteca</strong></td>
-      <td>Relación entre clases y control de préstamos.</td>
-    </tr>
-  </tbody>
-</table>
 
 ##  Estructura del proyecto
 
