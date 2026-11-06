@@ -31,42 +31,10 @@ Mediante ejemplos sencillos, se trabajan clases, atributos, constructores, creac
 Aplicar los conceptos fundamentales de la POO mediante la resolución de problemas prácticos, desarrollando habilidades para organizar, implementar y ejecutar programas en Java.
 
 
-##  Estructura del proyecto
-
-```text
-POO_Ejercicios/
-│
-├── Ejercicio1/
-│   ├── Estudiante.java
-│   └── Main1.java
-│
-├── Ejercicio2/
-│   ├── Producto.java
-│   └── Main2.java
-│
-├── Ejercicio3/
-│   ├── Mascota.java
-│   └── Main3.java
-│
-├── Ejercicio4/
-│   ├── Cuenta.java
-│   └── Main4.java
-│
-├── Ejercicio5/
-│   ├── Libro.java
-│   ├── Socio.java
-│   └── Main5.java
-│
-└── README.md
-```
-
-
-
 ##  Entregables
 
 - Código fuente de los cinco ejercicios.
 - Clases correspondientes a cada problema.
-- Salida de ejecución de cada programa.
 
 ##  Autor
 
